@@ -70,8 +70,8 @@ A Plataforma de Interação Esportiva tem como objetivo facilitar o agendamento 
 
 A aplicação está implantada em ambiente de nuvem escalável e responsivo, com acesso público via:
 
-- Frontend: https://plataforma-esportiva.web.app
-- Backend: https://api.plataforma-esportiva.com
+- Frontend: https://github.com/pHzeraGitHub/Front-End-PIA
+- Backend: https://github.com/pHzeraGitHub/Back-end-PIA_SIP
 
 ---
 
@@ -79,7 +79,7 @@ A aplicação está implantada em ambiente de nuvem escalável e responsivo, com
 
 Assista à demonstração da plataforma em funcionamento:
 
-[![Assistir no YouTube](https://img.shields.io/badge/YouTube-Apresenta%C3%A7%C3%A3o-red?logo=youtube)](https://youtu.be/seu-video)
+[![Assistir no YouTube](https://img.shields.io/badge/YouTube-Apresenta%C3%A7%C3%A3o-red?logo=youtube)](https://youtu.be/ZNYZYUqVcCY)
 
 ---
 
@@ -87,8 +87,8 @@ Assista à demonstração da plataforma em funcionamento:
 
 **Phillipe Martins da Silva**  
 Desenvolvedor Full Stack  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-[Email](mailto:phillipe@email.com)
+[LinkedIn](https://www.linkedin.com/in/phillipems/)  
+[Email](mailto:phillipe.ms@outlook.com)
 
 ---
 
